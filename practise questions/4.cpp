@@ -9,7 +9,6 @@ private:
     int count = 0;
 
 public:
-    void counting(void);
     void setlist(void);
     void display(void);
 };
